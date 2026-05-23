@@ -19,4 +19,4 @@ By documenting how we store, analyze, and interpret our own genetic data, Sequen
 📩 Join the Conversation
 Read my latest field notes and subscribe to Sequence Africa.
 
-I am Joy Manyasi Kabaka and I am documenting this transition from the ground up. Join the conversation.
+
