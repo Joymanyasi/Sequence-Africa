@@ -14,7 +14,7 @@ Building the Infrastructure: I look behind the scenes at the labs and data cente
 The Genomic Startup Ecosystem: I chronicle the new wave of African biotech startups—the innovators turning raw molecular data into clinical solutions for the continent’s unique population health needs.
 
 Why It Matters
-By documenting how we store, analyze, and interpret our own genetic data, Sequence Africa advocates for a future where clinical sovereignty is the standard. I am creating a knowledge bridge for researchers, policymakers and the public to ensure the genomic revolution in Africa is built by—and for—the people who live here.
+By documenting how we store, analyze, and interpret our own genetic data, Sequence Africa advocates for a future where clinical sovereignty is the standard. I am creating a knowledge bridge for researchers, policymakers and the public to ensure the genomic revolution in Africa is built by and for the people who live here.
 
 📩 Join the Conversation
 Read my latest field notes and subscribe to Sequence Africa.
