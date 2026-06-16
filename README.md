@@ -7,7 +7,7 @@ The Story
 For too long, the narrative of African genetics has been written by outside observers. Sequence Africa is an independent research initiative I created to change that. I track the development of local sequencing infrastructure, the rise of home-grown biotech startups, and the complex science stories that connect our history to our health outcomes.
 
 What I Explore
-The Archive is Open: I tell the stories written in our DNA—reframing the continent from a "subject of study" to the "author of the scientific record."
+The Archive is Open: I tell the stories written in our DNA reframing the continent from a "subject of study" to the "author of the scientific record."
 
 Building the Infrastructure: I look behind the scenes at the labs and data centers being built across the continent. I highlight the operational challenges and the ingenuity of the teams establishing local clinical sequencing.
 
